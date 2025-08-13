@@ -1,0 +1,15 @@
+2025-08-13 16:25:10,580 - drugbank_ui - INFO - Loading drug data from output.json
+2025-08-13 16:25:33,761 - drugbank_ui - INFO - Successfully loaded 73687 drugs in 23.18s
+2025-08-13 16:25:33,776 - drugbank_ui - INFO - Drug entries: min 2 keys, max (sampled) 55 keys
+2025-08-13 16:29:34,996 - drugbank_ui - INFO - Loading drug data from output.json
+2025-08-13 16:30:17,801 - drugbank_ui - INFO - Successfully loaded 73687 drugs in 42.80s
+2025-08-13 16:30:17,833 - drugbank_ui - INFO - Drug entries: min 2 keys, max (sampled) 55 keys
+2025-08-13 16:44:33,964 - drugbank_ui - INFO - Loading drug data from output.parquet
+2025-08-13 16:44:33,967 - drugbank_ui - ERROR - Failed to load data: name 'pd' is not defined
+2025-08-13 16:45:27,972 - drugbank_ui - INFO - Loading drug data from output.parquet
+2025-08-13 16:45:51,904 - drugbank_ui - INFO - Successfully loaded 73687 drugs in 23.93s
+2025-08-13 16:46:26,216 - drugbank_ui - INFO - Building search index...
+2025-08-13 16:46:27,655 - drugbank_ui - INFO - Built search index in 1.43s, avg text length: 221 chars
+2025-08-13 16:46:52,165 - drugbank_ui - INFO - Search completed in 0.081s, found 73687 results
+2025-08-13 16:49:11,799 - drugbank_ui - INFO - Search query: 'tramadol' (mode: Basic, regex: False)
+2025-08-13 16:49:12,004 - drugbank_ui - INFO - Search completed in 0.199s, found 5 results
